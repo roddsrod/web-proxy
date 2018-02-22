@@ -19,3 +19,6 @@ wget https://raw.githubusercontent.com/roddsrod/web-proxy/master/prx.sh && chmod
  <br />
  <br />
  Point to https://YourServerIP and you should see the web proxy running (since it's a self signed certificate the browser will tell you it's an untrusted site, accept the risk and there you go).
+ <br />
+ <br />
+ If you already have a web server running with php and SSL you can simply download and unzip the file prx.zip on your webserver and point to the location where you exctracted it.
