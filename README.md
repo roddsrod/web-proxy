@@ -14,7 +14,7 @@ Script is made to be run as root!
  <br />
 Install : <br />
 ```
-wget https://raw.githubusercontent.com/roddsrod/web-proxy/master/prx.sh && chmod + prx.sh && ./prx.sh
+wget https://raw.githubusercontent.com/roddsrod/web-proxy/master/prx.sh && chmod +x prx.sh && ./prx.sh
 ```
  <br />
  <br />
