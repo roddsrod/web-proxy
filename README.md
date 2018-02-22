@@ -18,4 +18,4 @@ wget https://raw.githubusercontent.com/roddsrod/web-proxy/master/prx.sh && chmod
 ```
  <br />
  <br />
- Point to https://YourServerIP and you should see the web proxy running (since it's a self signed certificate the browser will tell you it's an untrusted site, accept the risk and there you go.
+ Point to https://YourServerIP and you should see the web proxy running (since it's a self signed certificate the browser will tell you it's an untrusted site, accept the risk and there you go).
